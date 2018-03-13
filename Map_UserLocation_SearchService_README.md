@@ -1,4 +1,4 @@
-# Creating an having a map, user location and search service
+# Creating mobile app having a map, user location and search service
 
 I created a mobile app having a map from google showing a user location on the map and search service using android App studio.
 The code for this app is below. 
