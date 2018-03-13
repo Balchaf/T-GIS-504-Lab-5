@@ -72,7 +72,8 @@ class ViewController: UIViewController, MGLMapViewDelegate {
 
         
 
-        // Add marker `hello` to the map.
+        // Add marker `myschool` to the map.
+        //the following line adds the annotation I declared above to added to the map
 
         mapView.addAnnotation(myschool)
 
