@@ -1,4 +1,4 @@
-# Using XCODE: Building a simple mobile app having map, User location and map searvice
+# Using XCODE: Building a simple mobile app having map, User location and finding direction between two points
 
 The following code is written to build a simple mobile app having map, user location and finding route between two points using Xcode 
 
